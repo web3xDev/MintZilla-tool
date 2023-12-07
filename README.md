@@ -21,6 +21,10 @@ Users connect to the platform with their Web3 wallets, select the token type, an
 
 ![SS](./ss.png)
 
+## Test and Use
+
+To test and use platform, visit [MintZilla](https://mintzilla.xyz) for a hands-on experience.
+
 ## Security and Performance
 
 Our platform is built on a foundation of cutting-edge technologies aimed at bolstering security and optimizing performance. It's important to note, however, that our smart contracts have not undergone formal auditing. While we diligently review our smart contracts in alignment with industry best practices, it's crucial to recognize that there are inherent risks associated with their usage.
